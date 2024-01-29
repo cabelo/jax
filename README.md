@@ -5,5 +5,6 @@ JAX (Just an Artificial Intelligence Extended) is a notable innovation in the fi
 
 The heart of JAX is powered by Intel oneAPI technology, which introduces the concept of heterogeneous computing to the project. This feature allows for seamless integration with a variety of hardware, including products from Intel, NVIDIA, and AMD, offering users the freedom to choose the configuration that best suits their specific needs. Furthermore, JAX stands out in the field of Generative Artificial Intelligence, thanks to the incorporation of Intel OpenVINO technology. This technology is compatible with Intel processors and GPUs of the 6th generation or higher, providing exceptional performance and opening new possibilities in the development of AI applications. This set of features places JAX in a unique position, establishing it as a comprehensive and advanced solution for contemporary and future challenges in the field of Artificial Intelligence.
 
-![image](https://github.com/cabelo/jax/assets/675645/4956d0dc-3924-4a13-abe9-36a2120fe18b)
+![image](https://github.com/cabelo/jax/assets/675645/da814aff-c922-4276-8fbd-8c1c2440991c)
+
 
