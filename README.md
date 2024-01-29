@@ -36,16 +36,16 @@ To check the capacity and/or more details of the device, run the dmesg command w
  [471742.325898] sd 2:0:0:0: [sdb] Mode Sense: 43 00 00 00
  [471742.326365] sd 2:0:0:0: [sdb] No Caching mode page found
  [471742.326368] sd 2:0:0:0: [sdb] Assuming drive cache: write through
+
  ```
 
 Now just make the recording on the pendrive with the dd command as root user:
 
 ``` bash
- # dd if=OSMINER.x86_64-1.0.0.iso of=/dev/sdb conv=notrunc bs=4M;sync
+ $ sudo dd if=OSMINER.x86_64-1.0.0.iso of=/dev/sdb conv=notrunc bs=4M;sync
+
 ```
  
-
-
 ![image](https://github.com/cabelo/jax/assets/675645/0113db17-98b0-4f3b-9e44-38e8c3ad3376)
 
 
