@@ -14,7 +14,7 @@ Furthermore, JAX stands out in the field of Generative Artificial Intelligence, 
 To install JAX on the Linux platform, just open the terminal and first download the image using the wget command as shown in the example below:
 
 ``` bash
-$ wget service.assuntonerd.com.br/downloads/JAX_openSUSE.x86_64-1.15.5-Build-alpha-v0.903.iso
+$ wget https://service.assuntonerd.com.br/downloads/JAX_openSUSE.x86_64-1.15.5-Build-alpha-v0.903.iso
 
 ```
 
