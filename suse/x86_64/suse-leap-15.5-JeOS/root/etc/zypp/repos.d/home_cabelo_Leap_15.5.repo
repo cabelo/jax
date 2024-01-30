@@ -1,0 +1,7 @@
+[home:cabelo_Leap_15.5]
+name=home:cabelo_Leap_15.5
+baseurl=http://download.opensuse.org/repositories/home:cabelo/15.5/
+type=rpm-md
+enabled=1
+autorefresh=1
+gpgcheck=1
