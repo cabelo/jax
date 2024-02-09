@@ -1,4 +1,4 @@
-# JAX  ![Awesome](https://github.com/openvinotoolkit/awesome-openvino)
+# JAX  [![Mentioned in Awesome OpenVINO](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/openvinotoolkit/awesome-openvino)
 
 Just an Extended Artificial Intelligence: Artificial intelligence for everyone!
 
