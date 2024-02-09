@@ -1,5 +1,7 @@
-# JAX 
+# JAX  
 Just an Extended Artificial Intelligence: Artificial intelligence for everyone!
+
+# Awesome OpenVINO ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 JAX (Just an Artificial Intelligence Extended) is a notable innovation in the field of Artificial Intelligence (AI), designed as an optimized version of the openSUSE Linux image.
 
