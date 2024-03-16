@@ -13,7 +13,7 @@ Furthermore, JAX stands out in the field of Generative Artificial Intelligence, 
 ### To Do
 
 - [x] v0.904: First version
-- [X] v0.908 : *OpenVINO* plug and play
+- [X] v0.908 : **OpenVINO** plug and play
 - [ ] ADD Nvidia driver 
 - [ ] oneAPI plug and play 
 - [ ] CUDA plug and play
@@ -25,7 +25,7 @@ Furthermore, JAX stands out in the field of Generative Artificial Intelligence, 
 To install JAX on the Linux platform, just open the terminal and first download the image using the wget command as shown in the example below:
 
 ``` bash
-$ wget https://sourceforge.net/projects/jax-ai/files/iso/JAX_openSUSE.x86_64-1.15.5-Build-alpha-v0.904.iso
+$ wget https://sourceforge.net/projects/jax-ai/files/iso/JAX_openSUSE.x86_64-1.15.5-Build-alpha-v0.908.iso
 
 ```
 
