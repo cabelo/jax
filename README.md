@@ -10,6 +10,16 @@ The heart of JAX is powered by Intel oneAPI technology, which introduces the con
 
 Furthermore, JAX stands out in the field of Generative Artificial Intelligence, thanks to the incorporation of Intel OpenVINO technology. This technology is compatible with Intel processors and GPUs of the 6th generation or higher, providing exceptional performance and opening new possibilities in the development of AI applications. This set of features places JAX in a unique position, establishing it as a comprehensive and advanced solution for contemporary and future challenges in the field of Artificial Intelligence.
 
+### To Do
+
+- [x] v0.904: First version
+- [X] v0.908 : *OpenVINO* plug and play
+- [ ] ADD Nvidia driver 
+- [ ] oneAPI plug and play 
+- [ ] CUDA plug and play
+- [ ] ADD Stable Diffusion
+- [ ] Stable Diffusion play and play
+
 ### Download and install 
 
 To install JAX on the Linux platform, just open the terminal and first download the image using the wget command as shown in the example below:
