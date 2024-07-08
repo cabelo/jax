@@ -1,3 +1,5 @@
+![image](https://github.com/cabelo/jax/assets/675645/7748562d-e3fb-44de-bf88-4edab703711f)
+
 # JAX  [![Mentioned in Awesome OpenVINO](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/openvinotoolkit/awesome-openvino)
 
 Just an Extended Artificial Intelligence: Artificial intelligence for everyone!
