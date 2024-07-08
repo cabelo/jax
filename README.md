@@ -4,6 +4,8 @@ Just an Extended Artificial Intelligence: Artificial intelligence for everyone!
 
 JAX (Just an Artificial Intelligence Extended) is a notable innovation in the field of Artificial Intelligence (AI), designed as an optimized version of the openSUSE Linux image.
 
+**The main goal** of this project is to democratize artificial intelligence by enabling large-scale language models (LLM) and image generation (IAGEN) to run on sixth-generation or newer computers. This is because many people do not have enough financial resources to purchase cutting-edge GPUs.
+
 This platform is meticulously crafted to facilitate access and development of AI applications, representing a significant milestone for researchers, developers, and technology enthusiasts. Its structure is built on the pillars of flexibility and efficiency, providing an ideal environment for exploring the vast and dynamic world of Artificial Intelligence.
 
 The heart of JAX is powered by Intel oneAPI technology, which introduces the concept of heterogeneous computing to the project. This feature allows for seamless integration with a variety of hardware, including products from Intel, NVIDIA, and AMD, offering users the freedom to choose the configuration that best suits their specific needs. 
