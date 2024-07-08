@@ -62,8 +62,6 @@ Now just make the recording on the pendrive with the dd command as root user:
  $ sudo dd if=OSMINER.x86_64-1.0.0.iso of=/dev/sdb conv=notrunc bs=4M;sync
 
 ```
- 
-![image](https://github.com/cabelo/jax/assets/675645/0113db17-98b0-4f3b-9e44-38e8c3ad3376)
 
 # Boot Demonstrative video:
 [![image](image/jax-demo-alpha-001.jpg)](https://www.youtube.com/watch?v=Nt020MmX_00)
