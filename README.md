@@ -63,10 +63,14 @@ Now just make the recording on the pendrive with the dd command as root user:
  
 ![image](https://github.com/cabelo/jax/assets/675645/0113db17-98b0-4f3b-9e44-38e8c3ad3376)
 
-# Demonstrative video:
+# Boot Demonstrative video:
 [![image](image/jax-demo-alpha-001.jpg)](https://www.youtube.com/watch?v=Nt020MmX_00)
 
+# Video demonstrating AI running on old computers:
 [![image](https://github.com/cabelo/jax/assets/675645/dc038d9c-0ba3-4ef2-b396-adcc4cd12783)](https://www.youtube.com/watch?v=BfMqMBqLkzw)
+
+# Linux Pilot demonstration video:
+[![image](https://github.com/cabelo/jax/assets/675645/68b5ca80-6934-4211-ab4e-df45ca7f6ece)](https://www.youtube.com/watch?v=tH99PUmUou8)
 
 
 
