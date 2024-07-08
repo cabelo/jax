@@ -66,7 +66,8 @@ Now just make the recording on the pendrive with the dd command as root user:
 # Demonstrative video:
 [![image](image/jax-demo-alpha-001.jpg)](https://www.youtube.com/watch?v=Nt020MmX_00)
 
-![image](https://github.com/cabelo/jax/assets/675645/dc038d9c-0ba3-4ef2-b396-adcc4cd12783)
+![image](https://github.com/cabelo/jax/assets/675645/dc038d9c-0ba3-4ef2-b396-adcc4cd12783)(https://www.youtube.com/watch?v=BfMqMBqLkzw)
+
 
 
 
