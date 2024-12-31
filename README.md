@@ -19,9 +19,10 @@ Furthermore, JAX stands out in the field of Generative Artificial Intelligence, 
 - [x] v0.904: First version
 - [X] v0.908 : **OpenVINO** plug and play
 - [X] ADD Nvidia driver
+- [X] oneAPI plug and play 
+- [ ] Upgrade to openSUSE 15.6 base
 - [ ] ADD ollama inference LLM
 - [ ] ADD llama.cpp inference LLM
-- [ ] oneAPI plug and play 
 - [ ] CUDA plug and play
 - [ ] ADD Stable Diffusion
 - [ ] Stable Diffusion play and play
