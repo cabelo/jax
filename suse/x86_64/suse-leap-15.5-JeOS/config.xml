@@ -42,7 +42,7 @@
         <source path='http://download.opensuse.org/distribution/leap/15.5/repo/oss/'/>
     </repository>
     <repository type='rpm-md'  >
-        <source path='http://download.opensuse.org/repositories/home:/cabelo:/innovators/15.5/'/>
+        <source path='http://download.opensuse.org/repositories/home:/cabelo:/jax/15.5/'/>
     </repository>
     <packages type="image" patternType='onlyRequired'>
         <package name="checkmedia"/>
@@ -66,27 +66,74 @@
         <package name='cheese'/>
         <package name='opencv'/>
         <package name='MozillaFirefox'/>
-        <package name='google-chrome-stable'/>
+	<package name='google-chrome-stable'/>
+
+	<package name='gcc-c++'/>
+	<package name='cmake'/> 
+	<package name='make'/> 
+	<package name='pkg-config'/> 
+	<package name='gcc'/> 
+	<package name='opencl-headers'/>
+	<package name='ocl-icd-devel'/> 
+	<package name='opencv-devel'/> 
+	<package name='pugixml-devel'/>
+	<package name='patchelf'/>
+	<package name='opencl-cpp-headers'/>
+	<package name='python3-devel'/>
+	<package name='ccache'/>
+	<package name='nlohmann_json-devel'/>
+	<package name='ninja'/>
+	<package name='scons'/>
+	<package name='git'/>
+	<package name='git-lfs'/>
+	<package name='patchelf'/>
+	<package name='fdupes'/>
+	<package name='ShellCheck'/>
+	<package name='tbb-devel'/>
+	<package name='libva-devel'/>
+	<package name='snappy-devel'/>
+	<package name='ocl-icd-devel'/>
+	<package name='python3-base'/>
+	<package name='opencl-headers'/>
+	<package name='zlib-devel'/>
+	<package name='gflags-devel-static'/>
+	<package name='python3-pip'/>
+	<package name='protobuf-devel'/>  
+	<package name='ade-devel'/>
+
 
         <package name="kernel-firmware" />
         <package name='atmel-firmware'/>
         <package name='adaptec-firmware'/>
 
+        <package name='patterns-gnome-gnome_imaging'/>
+        <package name='patterns-gnome-gnome_basis_opt'/>  
+        <package name='patterns-gnome-gnome_basis'/>
         <package name='patterns-gnome-gnome_x11'/>
+        <package name='patterns-gnome-gnome_utilities'/>
+        <package name='patterns-gnome-sw_management_gnome'/>
+        <package name='patterns-gnome-gnome_internet'/>
         <package name='patterns-gnome-gnome_basic'/>
-        <package name='patterns-openSUSE-gnome'/>
-        <package name='patterns-openSUSE-gnome_utilities'/>
-        <package name='patterns-openSUSE-minimal_base'/>
-        <package name='wallpaper-branding-openSUSE'/>
+
+	<package name='wallpaper-branding-openSUSE'/>
+	<package name='patterns-gnome-gnome_yast'/>
 
         <package name='gnome-power-manager'/>
-        <package name='gnome-terminal'/>
+	<package name='gnome-terminal'/>
+	<package name='gnome-terminal-lang'/>
+        <package name='gnome-desktop'/>
         <package name='gnome-desktop-lang'/>
         <package name='gnome-keyring-lang'/>
         <package name='gnome-themes-accessibility-gtk2'/>
         <package name='gnome-themes-accessibility'/>
         <package name='zypper'/>
-        <package name='gtk3-branding-openSUSE'/>
+	<package name='gtk3-branding-openSUSE'/>
+
+	<package name='gnome-themes'/>
+ 	<package name='gnome-themes-accessibility'/>
+	<package name='gnome-themes-accessibility-gtk2'/>
+	<package name='gnome-themes-extras'/>
+	<package name='gnome-themes-lang'/>
 
         <package name='gtk3-branding-openSUSE'/>
         <package name='gvfs-backends'/>
@@ -167,6 +214,8 @@
         <package name="dhcp-client"/>
         <package name="which"/>
 	<package name="timezone"/>
+        <package name="openvino-devel"/>
+        <package name="openvino-sample"/>
         <archive name='plymouth.tar' bootinclude='true'/>
         <package name='gfxboot-devel' bootinclude='true' />
         <archive name='gdm.tar' bootinclude='true'/>
