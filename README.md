@@ -32,8 +32,7 @@ Furthermore, JAX stands out in the field of Generative Artificial Intelligence, 
 To install JAX on the Linux platform, just open the terminal and first download the image using the wget command as shown in the example below:
 
 ``` bash
-$ wget https://sourceforge.net/projects/jax-ai/files/iso/JAX_openSUSE.x86_64-1.15.5-Build-alpha-v0.908.iso
-
+$ wget https://master.dl.sourceforge.net/project/jax-ai/iso/JAX_openSUSE.x86_64-1.15.5-Build-alpha-v0.909.iso
 ```
 
 After downloading, plug in the pendrive and run the following command to find out the device name:
@@ -60,7 +59,7 @@ To check the capacity and/or more details of the device, run the dmesg command w
 Now just make the recording on the pendrive with the dd command as root user:
 
 ``` bash
- $ sudo dd if=OSMINER.x86_64-1.0.0.iso of=/dev/sdb conv=notrunc bs=4M;sync
+ $ sudo dd if=JAX_openSUSE.x86_64-1.15.5-Build-alpha-v0.909.iso of=/dev/sdb conv=notrunc bs=4M;sync
 
 ```
 
