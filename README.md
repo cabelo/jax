@@ -62,7 +62,10 @@ Now just make the recording on the pendrive with the dd command as root user:
  $ sudo dd if=JAX_openSUSE.x86_64-1.15.5-Build-alpha-v0.909.iso of=/dev/sdb conv=notrunc bs=4M;sync
 
 ```
+# oneAPI plug and play!
+[![image](https://github.com/user-attachments/assets/047ebab2-5cc3-4ac5-ab35-43bd1bad843b)](https://www.youtube.com/watch?v=IaVxDZA2ygI)
 
+https://www.youtube.com/watch?v=IaVxDZA2ygI
 # Boot Demonstrative video:
 [![image](image/jax-demo-alpha-001.jpg)](https://www.youtube.com/watch?v=Nt020MmX_00)
 
